@@ -1,0 +1,7 @@
+streamlit # Version: 1.38.0
+google-generativeai # Version: 0.8.1
+python_dotenv # Version: 1.0.1
+groq # Version: 0.11.0
+fpdf # Version: 1.7.2
+streamlit-js-eval # Version: 0.1.7
+# docx # Version: 0.2.4
